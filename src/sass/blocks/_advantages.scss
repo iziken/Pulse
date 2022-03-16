@@ -28,6 +28,9 @@
       a {
          color: #FF0000;
          text-decoration: underline;
+         &:hover {
+            text-decoration: none;
+         }
       }
    }
 }
